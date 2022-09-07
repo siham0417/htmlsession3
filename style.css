@@ -1,0 +1,39 @@
+.p1 {
+    color:blue;
+    font-weight: bold;
+}
+
+.p2 {
+    color:grey;
+}
+
+.p3 {
+    color:green;
+    font-style: italic;
+    font-size: 8px;
+}
+
+.p4 {
+    color:orange;
+    text-align: right;
+    font-weight: bold;
+}
+
+.p5 {
+    color:pink;
+    text-align: justify;
+    font-family: Tahoma;
+}
+
+.p6 {
+    color:purple;
+    text-decoration:underline; 
+    font-family: 'Roboto', 'Helvetica', 'sans-serif';
+}
+
+.p7 {
+    background-color: yellow;
+    font-weight: bold;
+    font-family: 'Comic Sans MS','Comic Sans','Cursive';
+    line-height: 25px;
+}
